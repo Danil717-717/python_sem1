@@ -7,7 +7,7 @@
 # for i in range(-a, a + 1):
 #    print(i, end = ' ')      #end выводит в строчку
 
-# var2
+# ###########################var2
 #num = int(input())
 #op_num = num + 1
 #step = 1
@@ -18,7 +18,7 @@
 # for i in range(-num, op_num, step):
 #    print(i, end=", ")
 
-# var3
+# ##########################var3
 num = int(input())
 neg_num = -num
 print(neg_num, end=", ")
